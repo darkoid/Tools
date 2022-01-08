@@ -1,4 +1,4 @@
-https://jlajara.gitlab.io/others/2020/11/22/Potatoes_Windows_Privesc.html
+Difference in various Potato attacks : https://jlajara.gitlab.io/others/2020/11/22/Potatoes_Windows_Privesc.html
 
 Any process holding this privilege can impersonate (but not create) any token for which it is able to gethandle.
 You can get a privileged token from a Windows service (DCOM) making it perform an NTLM authentication against the exploit, then execute a process as SYSTEM.
