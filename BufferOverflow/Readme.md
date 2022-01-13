@@ -1,4 +1,4 @@
-Files required: ***fuzzer.py***, ***exploit.py***, ***bytearray.py***(to create all bad char - not needed as already added in exploit.py comment)
+_Files required_: ***fuzzer.py***, ***exploit.py***, ***bytearray.py***(to create all bad char - not needed as already added in exploit.py comment)
 
 [fuzzer.py - run with *python3*](/fuzzer.py) || [exploit.py - run with *python* to reduce byte value problems with variable](/exploit.py) || [badchar.py - run with *python3*](/badchar.py)
 
