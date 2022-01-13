@@ -1,7 +1,6 @@
 Files required: ***fuzzer.py***, ***exploit.py***, ***bytearray.py***(to create all bad char - not needed as already added in exploit.py comment)
 
 [fuzzer.py - run this in **python3**](/fuzzer.py)
-
 [exploit.py - run in **python** to reduce byte value problems with variables.](/exploit.py)
 
 [badchar.py - run in **python3**](/badchar.py)
