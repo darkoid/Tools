@@ -1,9 +1,8 @@
 Files required: ***fuzzer.py***, ***exploit.py***, ***bytearray.py***(to create all bad char - not needed as already added in exploit.py comment)
 
-[fuzzer.py - run this in **python3**](/fuzzer.py)
-[exploit.py - run in **python** to reduce byte value problems with variables.](/exploit.py)
+[fuzzer.py - run with *python3*](/fuzzer.py)     [exploit.py - run with *python* to reduce byte value problems with variables.](/exploit.py)
 
-[badchar.py - run in **python3**](/badchar.py)
+[badchar.py - run with *python3*](/badchar.py)
 
 First run [fuzzer.py](http://fuzzer.py) then `msf-pattern_create`. Add output to payload variable in [exploit.py](http://exploit.py) (let other variables be empty and `offset = 0`)
 
