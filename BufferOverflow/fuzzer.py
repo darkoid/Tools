@@ -6,7 +6,7 @@ import socket, time, sys
 ip = "10.0.2.26"
 port = 1337
 timeout = 5
-prefix = "OVERFLOW3 "
+prefix = "OVERFLOW1 "
 
 string = prefix + "A" * 100
 
