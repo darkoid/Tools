@@ -1,1 +1,1 @@
-This repo is for me to store all pre-compiled tools that I need.
+This project includes detailed walkthroughs on various functions of various tools that I'll mention on my Portfolio.
